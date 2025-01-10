@@ -1,5 +1,6 @@
 # java
 从定义、来源、实现、问题、优化、应用方面回答
+
 ## 1.jvm相关
 1. 虚拟机内存分配
 2. 类加载
@@ -22,3 +23,20 @@
 4. threadLocal
 5. 线程池参数和调用逻辑、类型
 6. 并发工具 CountDownLatch 、Semaphare、CycleBarrier
+
+## 4.IO
+1. 概念：同步/异步 阻塞/非阻塞
+2. BIO NIO AIO
+
+## 5.spring
+1. 生命周期
+2. 作用域
+3. IOC DI 
+4. AOP
+5. MVC 实现
+
+## 5.生产问题排查
+1. 参数
+2. GC
+3. OOM
+4. 线程占用
