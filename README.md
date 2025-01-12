@@ -9,4 +9,5 @@ mixed diffrent domain knowledge's philosophy
 第二阶段基于[系统设计](https://github.com/Admol/SystemDesign?tab=readme-ov-file)进行调整
 
 1. [java基础](java/java基础)
-2. [MYSQL](java/MYSQL)
+2. [MYSQL](database/MYSQL.md)
+3. [redis]()
